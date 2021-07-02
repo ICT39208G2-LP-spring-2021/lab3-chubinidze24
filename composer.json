@@ -1,0 +1,12 @@
+{
+    "name": "kakha/lab3-chubinidze",
+    "authors": [
+        {
+            "name": "kakha",
+            "email": "chubinidze.kakha@gtu.ge"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
